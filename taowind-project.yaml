@@ -1,0 +1,14 @@
+﻿id: dream-form-arena
+name: Dream Form Arena
+version: 0.1.7-alpha.1
+role: product-body
+technology_families:
+  - world
+  - game
+  - media
+provides:
+  - multi-form-hero-action-adventure
+  - shared-pve-pvp-form-runtime
+  - dream-derived-gameplay-prototype
+evidence_status: F2_EXECUTABLE_ALPHA
+product_status: EXECUTABLE
